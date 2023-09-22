@@ -1,11 +1,13 @@
 # Tarea 01 🐍
 
 Este repositorio contiene dos proyectos Python diferentes: "Suma Absoluta" y "Diccionario". A continuación, se proporciona información sobre cada uno de ellos:
+## Equipo 6
 
 ### Integrantes Del Equipo
-Ernesto Nicolas Hernandez Lopez   <br>
-Jose Carlos Reyes Velazquez  <br>
-Geraldine Ferrer Pichardo  <br>
+Ferrer Pichardo Geraldine  <br>
+Hernandez Lopez Ernesto Nicolas  <br>
+Reyes Velazquez Jose Carlos <br>
+
 
 ## Suma Absoluta 🧮
 
