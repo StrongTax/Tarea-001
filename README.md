@@ -36,3 +36,41 @@ El programa toma una cadena de texto como entrada y realiza las siguientes opera
 ### Uso
 1. Ejecuta el programa proporcionando la cadena de texto como entrada.
 2. El programa procesará la cadena y mostrará la lista de palabras únicas en minúsculas.
+
+
+## Observaciones:
+No hay estructura de carpetas
+
+**Notas**: 
+- Comentarios específicos dentro de código, comentarios generales aquí.
+- Comentarios sobre PEP8 estarán como comentarios simples (#)
+- Comentarios en general en bloques de comentario """ """
+
+### Ejercicio01
+Bien!
+
+### Ejercicio02
+
+Hay varias cosas por corregir como funcionales, de buenas prácticas y la
+forma de estructurarlo.
+Se omiten recomenaciones de PEP8 que están en su ejercicio 1
+No existe el DocString que se menciona en su investigación
+
+### Ejercicio03
+No está bien pensada la resolución del ejercicio,
+está muy limitado a la eliminación de caracteres y agregar nuevos
+para eliminar nos deja sin el principio open close
+Su método zplit no cumple con el single-responsability como se menciona en
+el pdf.
+No existe el DocString que se menciona en su investigación
+
+## Calificación:
+
+- Ejercicio01 (1pto): 1 punto
+
+- Ejercicio02 (4pts): 2.9 puntos
+
+- Ejercicio03 (5pts): 2.7 puntos
+
+### Total: 6.6 
+
